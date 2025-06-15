@@ -1,0 +1,35 @@
+:root {
+	--white: hsl(0, 0%, 100%);
+
+	--purple-600: hsl(246, 80%, 60%);
+
+	--orange-300: hsl(15, 100%, 70%);
+	--blue-300: hsl(195, 74%, 62%);
+	--pink-400: hsl(348, 100%, 68%);
+	--green-400: hsl(145, 58%, 55%);
+	--purple-700: hsl(264, 64%, 52%);
+	--yellow-300: hsl(43, 84%, 65%);
+
+	--navy-950: hsl(226, 43%, 10%);
+	--navy-900: hsl(235, 46%, 20%);
+	--purple-500: hsl(235, 45%, 61%);
+	--navy-200: hsl(236, 100%, 87%);
+
+	--font-family-base: 'Rubik';
+
+	--font-size-xl: clamp(2rem, 0.5687rem + 6.1069vw, 3.5rem); // 56 - 32px
+	--font-size-l: clamp(1.5rem, 0.3571rem + 2.381vw, 2.5rem); // 40 - 24px
+	--font-size-m: 1.125rem; // 18px
+	--font-size-s: 0.9375rem; // 15px
+
+	--line-height-xxl: 4.125rem;
+	--line-height-xl: 2.9375rem;
+	--line-height-l: 2.375rem;
+	--line-height-m: 1.75rem;
+	--line-height-s: 1.3125rem;
+	--line-height-xs: 1.125rem;
+
+	--border-radius-card: 0.9375rem;
+
+	--transition-duration: 0.2s;
+}
